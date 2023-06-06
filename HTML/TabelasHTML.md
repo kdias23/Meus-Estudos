@@ -44,6 +44,8 @@ Exemplo prático:
         </table>
     </div>
 
+<hr>
+
 ``` html
 
 <div align="center">

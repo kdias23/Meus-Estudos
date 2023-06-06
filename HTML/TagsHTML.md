@@ -39,6 +39,7 @@ Height = Altura;
 UL = Lista Desordenada;
 OL = Lista Ordenada;
 LI = Nova linha na lista;
+Form = Cria um formulário;
 
 ```
 <hr>
