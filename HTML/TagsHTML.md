@@ -15,7 +15,6 @@ Nav = Menu;
 ## Controladores de Texto
 ``` html
 
-Div = Divisão da Página;
 U = Sublinhado;
 Hr = Linha;
 Br = Break;
@@ -30,6 +29,7 @@ H1... H6 = Títulos;
 
 ``` html
 
+Div = Divisão da Página;
 IMG scr = Imagem;
 Width = Largura;
 Height = Altura;
