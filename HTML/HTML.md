@@ -2,6 +2,9 @@
     <H1> Estudos HTML :computer: </H1>
 </center>
 
-[**TAGS**](TagsHTML.md)
+:link: [**TAGS**](TagsHTML.md)
+<br> <br>
+
+:link: [**Tabelas**](TabelasHTML.md)
 <hr>
 
