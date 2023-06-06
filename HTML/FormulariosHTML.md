@@ -8,8 +8,9 @@ Em meio aos formulários, é possível utilizar diversos tipos de input, como po
 
 Exemplo prático:
 
-<div align="center">
-    <h1> LOGIN </h1>
+<html>
+    <div align="center">
+        <h1> LOGIN </h1>
         <form>
             Login: 
             <input type="text" name="login"> <br><br>
@@ -19,7 +20,8 @@ Exemplo prático:
             <input type="checkbox" name="remember">ㅤㅤ
             <input type="submit" value="Entrar">
         </form> 
-</div>
+    </div>
+</html>
 
 <hr>
 
