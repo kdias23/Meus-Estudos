@@ -10,7 +10,7 @@
 
 <hr>
 
-[**HTML**](HTML/HTML.md) <br>
-[**CSS**](CSS/CSS.md)
+:paperclip: [**HTML**](HTML/HTML.md) <br>
+:paperclip: [**CSS**](CSS/CSS.md)
 
 <body>
