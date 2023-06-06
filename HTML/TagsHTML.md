@@ -1,6 +1,6 @@
 <center>
 
-# TAG's HTML :computer:
+# TAG's HTML
 </center>
 
 ## HTML Sêmantico
