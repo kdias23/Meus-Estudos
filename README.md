@@ -5,7 +5,7 @@
 <body>
 
 <div align="center">
-    Esse repositório possui o objetivo de realizar a documentação dos meus estudos! :grin;
+    Esse repositório possui o objetivo de realizar a documentação dos meus estudos! :grin:
 </div>
 
 <hr>
